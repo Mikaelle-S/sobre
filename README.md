@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sobre - React
 
 Esse projeto foi desenvolvido para a disciplina de Tecnologias de Desenvolvimento de Interface Gráfica da UEPB.
 
