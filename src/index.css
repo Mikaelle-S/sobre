@@ -24,27 +24,3 @@ p {
     font-size: 16px;
 }
 
-/*figure {
-    border: thin #c0c0c0 solid;;
-    display: flex;
-    flex-flow: column;
-    padding: 5px;
-    max-width: 300px;
-    margin: auto;
-}
-
-img {
-    max-width:300px ;
-    max-height:300px ;
-    padding: 1px;
-    margin: 1px;
-}
-
-figcaption {
-    background-color: #222;
-    color: #fff;
-    font: italic smaller sans-serif;
-    margin: 1px;
-    padding: 3px;
-    text-align: center;
-}*/
