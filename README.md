@@ -3,8 +3,8 @@
 Esse projeto foi desenvolvido para a disciplina de Tecnologias de Desenvolvimento de Interface Gráfica da UEPB.
 
 ## Equipe:
-  Eduarda Fernanda Sousa Cunha
-  Mikaelle dos Santos Oliveira
+ 1.Eduarda Fernanda Sousa Cunha
+ 2.Mikaelle dos Santos Oliveira
 
 ## Como execuar
 
